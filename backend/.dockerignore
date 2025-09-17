@@ -1,0 +1,4 @@
+venv
+.git
+db.dqlite3
+.env
